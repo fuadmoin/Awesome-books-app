@@ -48,7 +48,7 @@ HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo <a name="live-demo"> </a>
 
-> The website will be hosted in the future.
+> Check out the live demo for this project [here.]('https://fuadmoin.github.io/Awesome-books-app/')
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
