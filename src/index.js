@@ -1,4 +1,4 @@
-import Book from '../modules/books.js';
+import Book from '../dist/modules/books.js';
 
 window.onload = Book.displayAll();
 
