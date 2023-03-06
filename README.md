@@ -32,17 +32,18 @@
 
 # 📖 Awesome-books-app <a name="about-project"></a>
 
-**Awesome-books-app** is a simple project which can add and remove books on the website.
+**Awesome-books-app** is a simple project which can add and remove books on the website. It accepts the title and author of the book, then, stores it in local storage and displays it on the list page. It is a single-page application with three links in the navigation bar and can change the content dynamically based on the clicked link.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-HTML, CSS, and JavaScript
-
 ### Tech Stack <a name="tech-stack"></a>
+
+HTML, CSS, and JavaScript
 
 ### Key Features <a name="key-features"></a>
 
-- **[html manipulated with JavaScript]**
+- **[HTML manipulated with JavaScript]**
+- **[Saves the books in local storage]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +85,7 @@ VS CODE
 
 ### Run tests
 
-Test Add, remove and available list.
+Test Add, remove and available list from the website.
 
 ### Deployment
 
@@ -110,7 +111,7 @@ You can deploy this project using Github-Page.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+Contributions, [issues](https://github.com/fuadmoin/Awesome-books-app/issues), and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
